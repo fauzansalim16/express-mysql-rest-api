@@ -1,0 +1,1 @@
+menghubungkan rest api dengan server menggunakan node js dan express serta mysql untuk databasenya dan menggunakan multer sebagai package untuk menghandle file yang dikirim
